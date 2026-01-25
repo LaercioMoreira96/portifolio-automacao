@@ -1,0 +1,4021 @@
+2025-03-01 12:22:24,885 - INFO - Login realizado com sucesso.
+2025-03-01 12:22:35,969 - INFO - Página de vagas acessada com sucesso.
+2025-03-01 12:22:41,126 - INFO - Cargo '' inserido com sucesso.
+2025-03-01 12:22:43,227 - INFO - Cidade '' inserida com sucesso.
+2025-03-01 12:25:57,486 - INFO - Login realizado com sucesso.
+2025-03-01 12:25:57,497 - ERROR - Erro ao acessar página de vagas: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-03-01 12:26:13,493 - INFO - Login realizado com sucesso.
+2025-03-01 12:26:25,505 - INFO - Página de vagas acessada com sucesso.
+2025-03-01 12:26:30,648 - INFO - Cargo '' inserido com sucesso.
+2025-03-01 12:26:32,807 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-01 12:26:38,491 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:39,144 - INFO - Avançando para a página 2...
+2025-03-01 12:26:40,086 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:40,915 - INFO - Avançando para a página 3...
+2025-03-01 12:26:41,937 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:42,620 - INFO - Avançando para a página 4...
+2025-03-01 12:26:43,780 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:44,439 - INFO - Avançando para a página 5...
+2025-03-01 12:26:45,501 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:46,174 - INFO - Avançando para a página 6...
+2025-03-01 12:26:47,055 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:47,870 - INFO - Avançando para a página 7...
+2025-03-01 12:26:48,966 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:49,733 - INFO - Avançando para a página 8...
+2025-03-01 12:26:51,355 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:52,031 - INFO - Avançando para a página 9...
+2025-03-01 12:26:53,247 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:53,922 - INFO - Avançando para a página 10...
+2025-03-01 12:26:55,353 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:55,964 - INFO - Avançando para a página 11...
+2025-03-01 12:26:57,219 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:57,923 - INFO - Avançando para a página 12...
+2025-03-01 12:26:58,845 - INFO - Coletadas 25 vagas
+2025-03-01 12:26:59,542 - INFO - Avançando para a página 13...
+2025-03-01 12:27:00,590 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:01,270 - INFO - Avançando para a página 14...
+2025-03-01 12:27:02,479 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:03,146 - INFO - Avançando para a página 15...
+2025-03-01 12:27:04,165 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:04,840 - INFO - Avançando para a página 16...
+2025-03-01 12:27:05,791 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:06,656 - INFO - Avançando para a página 17...
+2025-03-01 12:27:07,688 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:08,404 - INFO - Avançando para a página 18...
+2025-03-01 12:27:09,541 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:10,250 - INFO - Avançando para a página 19...
+2025-03-01 12:27:11,216 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:12,022 - INFO - Avançando para a página 20...
+2025-03-01 12:27:12,904 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:13,728 - INFO - Avançando para a página 21...
+2025-03-01 12:27:14,776 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:15,632 - INFO - Avançando para a página 22...
+2025-03-01 12:27:17,556 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:18,134 - INFO - Avançando para a página 23...
+2025-03-01 12:27:19,118 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:19,674 - INFO - Avançando para a página 24...
+2025-03-01 12:27:20,960 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:21,522 - INFO - Avançando para a página 25...
+2025-03-01 12:27:22,598 - INFO - Coletadas 25 vagas
+2025-03-01 12:27:23,123 - INFO - Avançando para a página 26...
+2025-03-01 12:27:23,404 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:06,345 - INFO - Login realizado com sucesso.
+2025-03-01 12:28:16,828 - INFO - Página de vagas acessada com sucesso.
+2025-03-01 12:28:22,050 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-01 12:28:24,205 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-01 12:28:29,884 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:30,521 - INFO - Avançando para a página 2...
+2025-03-01 12:28:31,711 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:32,481 - INFO - Avançando para a página 3...
+2025-03-01 12:28:33,593 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:34,274 - INFO - Avançando para a página 4...
+2025-03-01 12:28:35,441 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:36,118 - INFO - Avançando para a página 5...
+2025-03-01 12:28:37,176 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:37,852 - INFO - Avançando para a página 6...
+2025-03-01 12:28:39,022 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:39,688 - INFO - Avançando para a página 7...
+2025-03-01 12:28:40,547 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:41,276 - INFO - Avançando para a página 8...
+2025-03-01 12:28:42,839 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:43,463 - INFO - Avançando para a página 9...
+2025-03-01 12:28:44,584 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:45,322 - INFO - Avançando para a página 10...
+2025-03-01 12:28:46,387 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:47,056 - INFO - Avançando para a página 11...
+2025-03-01 12:28:48,055 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:48,694 - INFO - Avançando para a página 12...
+2025-03-01 12:28:49,885 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:50,645 - INFO - Avançando para a página 13...
+2025-03-01 12:28:51,881 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:52,572 - INFO - Avançando para a página 14...
+2025-03-01 12:28:53,549 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:54,263 - INFO - Avançando para a página 15...
+2025-03-01 12:28:55,307 - INFO - Coletadas 25 vagas
+2025-03-01 12:28:55,961 - INFO - Avançando para a página 16...
+2025-03-01 12:29:02,160 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-01 12:29:02,202 - INFO - Planilha criada com sucesso!
+2025-03-02 14:43:20,281 - INFO - Login realizado com sucesso.
+2025-03-02 14:43:20,499 - INFO - Página de vagas acessada com sucesso.
+2025-03-02 14:43:25,725 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-02 14:43:27,882 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-02 14:43:33,428 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:34,149 - INFO - Avançando para a página 2...
+2025-03-02 14:43:35,163 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:35,901 - INFO - Avançando para a página 3...
+2025-03-02 14:43:36,920 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:37,612 - INFO - Avançando para a página 4...
+2025-03-02 14:43:38,771 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:39,452 - INFO - Avançando para a página 5...
+2025-03-02 14:43:40,668 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:41,359 - INFO - Avançando para a página 6...
+2025-03-02 14:43:42,416 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:43,090 - INFO - Avançando para a página 7...
+2025-03-02 14:43:43,842 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:44,501 - INFO - Avançando para a página 8...
+2025-03-02 14:43:45,605 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:46,226 - INFO - Avançando para a página 9...
+2025-03-02 14:43:47,091 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:48,141 - INFO - Avançando para a página 10...
+2025-03-02 14:43:49,293 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:49,961 - INFO - Avançando para a página 11...
+2025-03-02 14:43:51,062 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:51,740 - INFO - Avançando para a página 12...
+2025-03-02 14:43:52,658 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:53,474 - INFO - Avançando para a página 13...
+2025-03-02 14:43:54,828 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:55,604 - INFO - Avançando para a página 14...
+2025-03-02 14:43:56,552 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:57,275 - INFO - Avançando para a página 15...
+2025-03-02 14:43:58,022 - INFO - Coletadas 25 vagas
+2025-03-02 14:43:58,904 - INFO - Avançando para a página 16...
+2025-03-02 14:44:04,980 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-02 14:44:05,027 - INFO - Planilha criada com sucesso!
+2025-03-07 16:14:53,009 - INFO - Login realizado com sucesso.
+2025-03-07 16:14:53,111 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:14:58,335 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:15:00,506 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:16:44,924 - ERROR - Erro ao coletar links: 'str' object has no attribute 'find_element'
+2025-03-07 16:16:47,489 - ERROR - Erro ao coletar links: 'str' object has no attribute 'find_element'
+2025-03-07 16:17:42,626 - INFO - Login realizado com sucesso.
+2025-03-07 16:17:45,894 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:17:51,125 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:17:53,259 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:18:14,621 - INFO - Login realizado com sucesso.
+2025-03-07 16:18:14,713 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:18:20,020 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:18:22,161 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:20:44,178 - INFO - Login realizado com sucesso.
+2025-03-07 16:20:44,329 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:20:49,560 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:20:51,718 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:40:44,381 - INFO - Login realizado com sucesso.
+2025-03-07 16:40:44,654 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:40:49,875 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:40:52,073 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:41:47,410 - INFO - Login realizado com sucesso.
+2025-03-07 16:41:50,675 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:41:55,914 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:41:58,123 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:42:45,363 - INFO - Login realizado com sucesso.
+2025-03-07 16:42:48,624 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:42:53,836 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:42:56,001 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:43:35,335 - INFO - Login realizado com sucesso.
+2025-03-07 16:43:35,487 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:43:40,759 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:43:42,878 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:43:43,936 - ERROR - Erro ao rolar o scroll: cannot access local variable 'div_pai' where it is not associated with a value
+2025-03-07 16:44:38,509 - INFO - Login realizado com sucesso.
+2025-03-07 16:44:38,820 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:44:44,029 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:44:46,150 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:44:47,208 - ERROR - Erro ao rolar o scroll: cannot access local variable 'div_pai' where it is not associated with a value
+2025-03-07 16:46:47,347 - INFO - Login realizado com sucesso.
+2025-03-07 16:46:47,620 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:46:52,827 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:46:54,953 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:46:54,991 - ERROR - Erro ao rolar o scroll: cannot access local variable 'div_pai' where it is not associated with a value
+2025-03-07 16:48:04,579 - INFO - Login realizado com sucesso.
+2025-03-07 16:48:07,776 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:48:12,986 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:48:15,147 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:48:15,169 - ERROR - Erro ao rolar o scroll: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id="main"]) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="main"])' is not a valid XPath expression.
+  (Session info: chrome=134.0.6998.35); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E1B8DF85+26693]
+	(No symbol) [0x00007FF7E1AEEAD0]
+	(No symbol) [0x00007FF7E19791CA]
+	(No symbol) [0x00007FF7E1980B2C]
+	(No symbol) [0x00007FF7E19838FC]
+	(No symbol) [0x00007FF7E19839CF]
+	(No symbol) [0x00007FF7E19CF000]
+	(No symbol) [0x00007FF7E19CF97C]
+	(No symbol) [0x00007FF7E1A233C7]
+	(No symbol) [0x00007FF7E19F792F]
+	(No symbol) [0x00007FF7E1A200B8]
+	(No symbol) [0x00007FF7E19F76C3]
+	(No symbol) [0x00007FF7E19C0490]
+	(No symbol) [0x00007FF7E19C1743]
+	GetHandleVerifier [0x00007FF7E1EE436D+3525677]
+	GetHandleVerifier [0x00007FF7E1EF7F3B+3606523]
+	GetHandleVerifier [0x00007FF7E1EECEE3+3561379]
+	GetHandleVerifier [0x00007FF7E1C57C0A+853194]
+	(No symbol) [0x00007FF7E1AF990F]
+	(No symbol) [0x00007FF7E1AF5674]
+	(No symbol) [0x00007FF7E1AF5816]
+	(No symbol) [0x00007FF7E1AE4D89]
+	BaseThreadInitThunk [0x00007FFB3AD3E8D7+23]
+	RtlUserThreadStart [0x00007FFB3C5FBF2C+44]
+
+2025-03-07 16:49:00,547 - INFO - Login realizado com sucesso.
+2025-03-07 16:49:00,884 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:49:06,100 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:49:08,264 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:49:44,584 - INFO - Login realizado com sucesso.
+2025-03-07 16:49:44,795 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:49:50,034 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:49:52,197 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:49:58,216 - ERROR - Erro ao rolar o scroll: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@style, 'overflow: auto') or contains(@style, 'overflow: scroll')]"}
+  (Session info: chrome=134.0.6998.35); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E1B8DF85+26693]
+	(No symbol) [0x00007FF7E1AEEAD0]
+	(No symbol) [0x00007FF7E19791CA]
+	(No symbol) [0x00007FF7E19CF747]
+	(No symbol) [0x00007FF7E19CF97C]
+	(No symbol) [0x00007FF7E19C21CC]
+	(No symbol) [0x00007FF7E19F792F]
+	(No symbol) [0x00007FF7E19C2096]
+	(No symbol) [0x00007FF7E19F7B00]
+	(No symbol) [0x00007FF7E1A200B8]
+	(No symbol) [0x00007FF7E19F76C3]
+	(No symbol) [0x00007FF7E19C0490]
+	(No symbol) [0x00007FF7E19C1743]
+	GetHandleVerifier [0x00007FF7E1EE436D+3525677]
+	GetHandleVerifier [0x00007FF7E1EF7F3B+3606523]
+	GetHandleVerifier [0x00007FF7E1EECEE3+3561379]
+	GetHandleVerifier [0x00007FF7E1C57C0A+853194]
+	(No symbol) [0x00007FF7E1AF990F]
+	(No symbol) [0x00007FF7E1AF5674]
+	(No symbol) [0x00007FF7E1AF5816]
+	(No symbol) [0x00007FF7E1AE4D89]
+	BaseThreadInitThunk [0x00007FFB3AD3E8D7+23]
+	RtlUserThreadStart [0x00007FFB3C5FBF2C+44]
+
+2025-03-07 16:50:46,263 - INFO - Login realizado com sucesso.
+2025-03-07 16:50:46,599 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:50:51,818 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:50:54,049 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:53:54,460 - INFO - Login realizado com sucesso.
+2025-03-07 16:53:54,715 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:53:59,919 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:54:02,101 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:54:07,120 - ERROR - Erro ao rolar o scroll: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@style, 'overflow: auto') or contains(@style, 'overflow: scroll')]"}
+  (Session info: chrome=134.0.6998.35); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E1B8DF85+26693]
+	(No symbol) [0x00007FF7E1AEEAD0]
+	(No symbol) [0x00007FF7E19791CA]
+	(No symbol) [0x00007FF7E19CF747]
+	(No symbol) [0x00007FF7E19CF97C]
+	(No symbol) [0x00007FF7E19C21CC]
+	(No symbol) [0x00007FF7E19F792F]
+	(No symbol) [0x00007FF7E19C2096]
+	(No symbol) [0x00007FF7E19F7B00]
+	(No symbol) [0x00007FF7E1A200B8]
+	(No symbol) [0x00007FF7E19F76C3]
+	(No symbol) [0x00007FF7E19C0490]
+	(No symbol) [0x00007FF7E19C1743]
+	GetHandleVerifier [0x00007FF7E1EE436D+3525677]
+	GetHandleVerifier [0x00007FF7E1EF7F3B+3606523]
+	GetHandleVerifier [0x00007FF7E1EECEE3+3561379]
+	GetHandleVerifier [0x00007FF7E1C57C0A+853194]
+	(No symbol) [0x00007FF7E1AF990F]
+	(No symbol) [0x00007FF7E1AF5674]
+	(No symbol) [0x00007FF7E1AF5816]
+	(No symbol) [0x00007FF7E1AE4D89]
+	BaseThreadInitThunk [0x00007FFB3AD3E8D7+23]
+	RtlUserThreadStart [0x00007FFB3C5FBF2C+44]
+
+2025-03-07 16:55:04,327 - INFO - Login realizado com sucesso.
+2025-03-07 16:55:07,513 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:55:12,727 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:55:14,892 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:55:19,911 - ERROR - Erro ao rolar o scroll: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@style, 'overflow: auto') or contains(@style, 'overflow: scroll')]"}
+  (Session info: chrome=134.0.6998.35); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E1B8DF85+26693]
+	(No symbol) [0x00007FF7E1AEEAD0]
+	(No symbol) [0x00007FF7E19791CA]
+	(No symbol) [0x00007FF7E19CF747]
+	(No symbol) [0x00007FF7E19CF97C]
+	(No symbol) [0x00007FF7E19C21CC]
+	(No symbol) [0x00007FF7E19F792F]
+	(No symbol) [0x00007FF7E19C2096]
+	(No symbol) [0x00007FF7E19F7B00]
+	(No symbol) [0x00007FF7E1A200B8]
+	(No symbol) [0x00007FF7E19F76C3]
+	(No symbol) [0x00007FF7E19C0490]
+	(No symbol) [0x00007FF7E19C1743]
+	GetHandleVerifier [0x00007FF7E1EE436D+3525677]
+	GetHandleVerifier [0x00007FF7E1EF7F3B+3606523]
+	GetHandleVerifier [0x00007FF7E1EECEE3+3561379]
+	GetHandleVerifier [0x00007FF7E1C57C0A+853194]
+	(No symbol) [0x00007FF7E1AF990F]
+	(No symbol) [0x00007FF7E1AF5674]
+	(No symbol) [0x00007FF7E1AF5816]
+	(No symbol) [0x00007FF7E1AE4D89]
+	BaseThreadInitThunk [0x00007FFB3AD3E8D7+23]
+	RtlUserThreadStart [0x00007FFB3C5FBF2C+44]
+
+2025-03-07 16:58:21,666 - INFO - Login realizado com sucesso.
+2025-03-07 16:58:21,847 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:58:27,116 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:58:29,264 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 16:59:09,374 - INFO - Login realizado com sucesso.
+2025-03-07 16:59:12,451 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 16:59:17,719 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 16:59:19,890 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 17:00:05,860 - INFO - Login realizado com sucesso.
+2025-03-07 17:00:06,015 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 17:00:11,284 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 17:00:13,440 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 17:00:42,279 - INFO - Login realizado com sucesso.
+2025-03-07 17:00:42,429 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 17:00:47,644 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 17:00:49,775 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 17:03:04,422 - INFO - Login realizado com sucesso.
+2025-03-07 17:03:04,693 - INFO - Página de vagas acessada com sucesso.
+2025-03-07 17:03:09,957 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-07 17:03:12,153 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-07 17:03:17,831 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:18,543 - INFO - Avançando para a página 2...
+2025-03-07 17:03:19,931 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:20,706 - INFO - Avançando para a página 3...
+2025-03-07 17:03:21,908 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:22,611 - INFO - Avançando para a página 4...
+2025-03-07 17:03:23,906 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:24,494 - INFO - Avançando para a página 5...
+2025-03-07 17:03:25,625 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:26,256 - INFO - Avançando para a página 6...
+2025-03-07 17:03:27,255 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:27,843 - INFO - Avançando para a página 7...
+2025-03-07 17:03:28,652 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:29,403 - INFO - Avançando para a página 8...
+2025-03-07 17:03:30,634 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:31,473 - INFO - Avançando para a página 9...
+2025-03-07 17:03:32,654 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:33,323 - INFO - Avançando para a página 10...
+2025-03-07 17:03:34,716 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:35,536 - INFO - Avançando para a página 11...
+2025-03-07 17:03:36,482 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:37,313 - INFO - Avançando para a página 12...
+2025-03-07 17:03:38,593 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:39,342 - INFO - Avançando para a página 13...
+2025-03-07 17:03:40,664 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:41,442 - INFO - Avançando para a página 14...
+2025-03-07 17:03:42,449 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:43,196 - INFO - Avançando para a página 15...
+2025-03-07 17:03:44,168 - INFO - Coletadas 25 vagas
+2025-03-07 17:03:44,935 - INFO - Avançando para a página 16...
+2025-03-07 17:03:51,594 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-07 17:03:51,640 - INFO - Planilha criada com sucesso!
+2025-03-20 21:41:40,882 - INFO - Login realizado com sucesso.
+2025-03-20 21:41:41,113 - INFO - Página de vagas acessada com sucesso.
+2025-03-20 21:41:46,442 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-20 21:41:48,591 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-20 21:41:54,159 - INFO - Coletadas 25 vagas
+2025-03-20 21:41:54,813 - INFO - Avançando para a página 2...
+2025-03-20 21:41:56,070 - INFO - Coletadas 25 vagas
+2025-03-20 21:41:56,786 - INFO - Avançando para a página 3...
+2025-03-20 21:41:57,895 - INFO - Coletadas 25 vagas
+2025-03-20 21:41:58,684 - INFO - Avançando para a página 4...
+2025-03-20 21:42:00,006 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:00,663 - INFO - Avançando para a página 5...
+2025-03-20 21:42:01,931 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:02,646 - INFO - Avançando para a página 6...
+2025-03-20 21:42:03,761 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:04,414 - INFO - Avançando para a página 7...
+2025-03-20 21:42:05,478 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:06,150 - INFO - Avançando para a página 8...
+2025-03-20 21:42:07,257 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:07,937 - INFO - Avançando para a página 9...
+2025-03-20 21:42:08,986 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:09,780 - INFO - Avançando para a página 10...
+2025-03-20 21:42:10,797 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:11,451 - INFO - Avançando para a página 11...
+2025-03-20 21:42:12,511 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:13,606 - INFO - Avançando para a página 12...
+2025-03-20 21:42:14,693 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:15,421 - INFO - Avançando para a página 13...
+2025-03-20 21:42:16,590 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:17,254 - INFO - Avançando para a página 14...
+2025-03-20 21:42:18,348 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:18,927 - INFO - Avançando para a página 15...
+2025-03-20 21:42:20,013 - INFO - Coletadas 25 vagas
+2025-03-20 21:42:20,682 - INFO - Avançando para a página 16...
+2025-03-20 21:42:27,054 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-20 21:42:27,105 - INFO - Planilha criada com sucesso!
+2025-03-25 20:53:37,940 - INFO - Login realizado com sucesso.
+2025-03-25 20:53:38,090 - INFO - Página de vagas acessada com sucesso.
+2025-03-25 20:53:43,528 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-25 20:53:45,850 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-25 20:53:51,415 - INFO - Coletadas 25 vagas
+2025-03-25 20:53:52,240 - INFO - Avançando para a página 2...
+2025-03-25 20:53:53,506 - INFO - Avançando para a página 3...
+2025-03-25 20:53:54,548 - INFO - Avançando para a página 4...
+2025-03-25 20:53:55,541 - INFO - Avançando para a página 5...
+2025-03-25 20:53:56,783 - INFO - Avançando para a página 6...
+2025-03-25 20:53:58,224 - INFO - Avançando para a página 7...
+2025-03-25 20:53:59,339 - INFO - Avançando para a página 8...
+2025-03-25 20:54:00,523 - INFO - Avançando para a página 9...
+2025-03-25 20:54:01,607 - INFO - Avançando para a página 10...
+2025-03-25 20:54:02,746 - INFO - Avançando para a página 11...
+2025-03-25 20:54:05,584 - INFO - Avançando para a página 12...
+2025-03-25 20:54:07,310 - INFO - Avançando para a página 13...
+2025-03-25 20:54:09,031 - INFO - Avançando para a página 14...
+2025-03-25 20:54:11,144 - INFO - Avançando para a página 15...
+2025-03-25 20:54:18,149 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-25 20:54:18,184 - INFO - Planilha criada com sucesso!
+2025-03-26 20:47:51,116 - INFO - Login realizado com sucesso.
+2025-03-26 20:47:54,693 - INFO - Página de vagas acessada com sucesso.
+2025-03-26 20:48:00,000 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-26 20:48:02,174 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-26 20:48:07,734 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:08,372 - INFO - Avançando para a página 2...
+2025-03-26 20:48:09,551 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:10,286 - INFO - Avançando para a página 3...
+2025-03-26 20:48:11,217 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:12,075 - INFO - Avançando para a página 4...
+2025-03-26 20:48:13,015 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:13,652 - INFO - Avançando para a página 5...
+2025-03-26 20:48:14,711 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:15,366 - INFO - Avançando para a página 6...
+2025-03-26 20:48:16,866 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:17,499 - INFO - Avançando para a página 7...
+2025-03-26 20:48:18,700 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:19,417 - INFO - Avançando para a página 8...
+2025-03-26 20:48:20,423 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:21,112 - INFO - Avançando para a página 9...
+2025-03-26 20:48:22,116 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:22,728 - INFO - Avançando para a página 10...
+2025-03-26 20:48:23,736 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:24,429 - INFO - Avançando para a página 11...
+2025-03-26 20:48:25,431 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:26,190 - INFO - Avançando para a página 12...
+2025-03-26 20:48:27,512 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:28,229 - INFO - Avançando para a página 13...
+2025-03-26 20:48:29,346 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:30,292 - INFO - Avançando para a página 14...
+2025-03-26 20:48:31,350 - INFO - Coletadas 25 vagas
+2025-03-26 20:48:32,028 - INFO - Avançando para a página 15...
+2025-03-26 20:48:38,498 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-26 20:48:38,549 - INFO - Planilha criada com sucesso!
+2025-03-26 20:51:15,763 - INFO - Login realizado com sucesso.
+2025-03-26 20:51:16,092 - INFO - Página de vagas acessada com sucesso.
+2025-03-26 20:51:21,359 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-26 20:51:23,497 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-26 20:51:29,125 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:29,730 - INFO - Avançando para a página 2...
+2025-03-26 20:51:30,860 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:31,607 - INFO - Avançando para a página 3...
+2025-03-26 20:51:32,644 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:33,505 - INFO - Avançando para a página 4...
+2025-03-26 20:51:34,496 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:35,167 - INFO - Avançando para a página 5...
+2025-03-26 20:51:36,144 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:36,857 - INFO - Avançando para a página 6...
+2025-03-26 20:51:38,076 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:38,810 - INFO - Avançando para a página 7...
+2025-03-26 20:51:40,022 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:40,698 - INFO - Avançando para a página 8...
+2025-03-26 20:51:41,761 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:42,465 - INFO - Avançando para a página 9...
+2025-03-26 20:51:43,498 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:44,145 - INFO - Avançando para a página 10...
+2025-03-26 20:51:45,375 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:46,091 - INFO - Avançando para a página 11...
+2025-03-26 20:51:47,219 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:47,939 - INFO - Avançando para a página 12...
+2025-03-26 20:51:49,361 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:50,013 - INFO - Avançando para a página 13...
+2025-03-26 20:51:51,245 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:51,894 - INFO - Avançando para a página 14...
+2025-03-26 20:51:52,915 - INFO - Coletadas 25 vagas
+2025-03-26 20:51:53,605 - INFO - Avançando para a página 15...
+2025-03-26 20:52:00,177 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-26 21:45:46,016 - INFO - Login realizado com sucesso.
+2025-03-26 21:53:21,825 - INFO - Login realizado com sucesso.
+2025-03-26 21:53:22,017 - INFO - Página de vagas acessada com sucesso.
+2025-03-26 21:53:27,312 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-26 21:53:29,456 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-26 21:57:11,871 - INFO - Login realizado com sucesso.
+2025-03-26 21:57:11,976 - INFO - Página de vagas acessada com sucesso.
+2025-03-26 21:57:17,275 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-26 21:57:19,424 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-26 21:57:29,235 - INFO - Coletadas 25 vagas
+2025-03-26 21:57:29,872 - INFO - Avançando para a página 2...
+2025-03-26 21:57:30,754 - INFO - Coletadas 25 vagas
+2025-03-26 21:57:31,550 - INFO - Avançando para a página 3...
+2025-03-26 21:57:32,616 - INFO - Coletadas 25 vagas
+2025-03-26 21:57:33,292 - INFO - Avançando para a página 4...
+2025-03-26 21:57:34,477 - INFO - Coletadas 25 vagas
+2025-03-26 21:57:35,116 - INFO - Avançando para a página 5...
+2025-03-26 21:57:36,097 - INFO - Coletadas 25 vagas
+2025-03-26 21:57:36,779 - INFO - Avançando para a página 6...
+2025-03-26 21:58:34,501 - INFO - Login realizado com sucesso.
+2025-03-26 22:07:27,789 - INFO - Login realizado com sucesso.
+2025-03-26 22:07:27,958 - INFO - Página de vagas acessada com sucesso.
+2025-03-26 22:07:33,278 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-26 22:07:35,414 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-26 22:07:45,469 - INFO - Coletadas 25 vagas
+2025-03-26 22:08:08,877 - INFO - Login realizado com sucesso.
+2025-03-26 22:08:12,231 - INFO - Página de vagas acessada com sucesso.
+2025-03-26 22:08:17,611 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-26 22:08:19,758 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-26 22:08:32,747 - INFO - Coletadas 25 vagas
+2025-03-26 22:08:33,438 - INFO - Avançando para a página 2...
+2025-03-26 22:08:39,595 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-26 22:08:39,616 - INFO - Planilha criada com sucesso!
+2025-03-27 20:48:44,445 - INFO - Login realizado com sucesso.
+2025-03-27 20:48:44,621 - INFO - Página de vagas acessada com sucesso.
+2025-03-27 20:48:49,932 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-27 20:48:52,141 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-27 20:49:05,043 - INFO - Coletadas 25 vagas
+2025-03-27 20:49:05,808 - INFO - Avançando para a página 2...
+2025-03-27 20:49:12,413 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-27 20:49:12,448 - INFO - Planilha criada com sucesso!
+2025-03-28 09:30:24,963 - INFO - Login realizado com sucesso.
+2025-03-28 09:30:25,231 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 09:30:30,534 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 09:30:32,685 - INFO - Cidade 'São Paulo' inserida com sucesso.
+2025-03-28 09:31:18,635 - INFO - Login realizado com sucesso.
+2025-03-28 09:31:18,888 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 09:31:24,212 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 09:31:26,352 - INFO - Cidade 'São Paulo' inserida com sucesso.
+2025-03-28 09:45:14,707 - INFO - Login realizado com sucesso.
+2025-03-28 10:23:49,712 - INFO - Login realizado com sucesso.
+2025-03-28 10:23:49,939 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:23:55,256 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 10:23:57,435 - INFO - Cidade 'São Paulo' inserida com sucesso.
+2025-03-28 10:24:10,367 - INFO - Coletadas 25 vagas
+2025-03-28 10:24:11,086 - INFO - Avançando para a página 2...
+2025-03-28 10:24:12,146 - INFO - Coletadas 25 vagas
+2025-03-28 10:24:12,845 - INFO - Avançando para a página 3...
+2025-03-28 10:24:14,070 - INFO - Coletadas 25 vagas
+2025-03-28 10:24:14,732 - INFO - Avançando para a página 4...
+2025-03-28 10:24:21,269 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-28 10:24:21,304 - INFO - Planilha criada com sucesso!
+2025-03-28 10:30:36,648 - INFO - Login realizado com sucesso.
+2025-03-28 10:30:36,756 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:30:42,057 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 10:30:44,237 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 10:30:53,345 - ERROR - Erro na automação: Message: element not interactable
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DED24C25+3179557]
+	(No symbol) [0x00007FF7DE9888A0]
+	(No symbol) [0x00007FF7DE818FFC]
+	(No symbol) [0x00007FF7DE870EA4]
+	(No symbol) [0x00007FF7DE862A24]
+	(No symbol) [0x00007FF7DE897C2A]
+	(No symbol) [0x00007FF7DE8622D6]
+	(No symbol) [0x00007FF7DE897E40]
+	(No symbol) [0x00007FF7DE8C02F3]
+	(No symbol) [0x00007FF7DE897A03]
+	(No symbol) [0x00007FF7DE8606D0]
+	(No symbol) [0x00007FF7DE861983]
+	GetHandleVerifier [0x00007FF7DED867CD+3579853]
+	GetHandleVerifier [0x00007FF7DED9D1D2+3672530]
+	GetHandleVerifier [0x00007FF7DED92153+3627347]
+	GetHandleVerifier [0x00007FF7DEAF092A+868650]
+	(No symbol) [0x00007FF7DE992FFF]
+	(No symbol) [0x00007FF7DE98F4A4]
+	(No symbol) [0x00007FF7DE98F646]
+	(No symbol) [0x00007FF7DE97EAA9]
+	BaseThreadInitThunk [0x00007FF857D9E8D7+23]
+	RtlUserThreadStart [0x00007FF85887BF6C+44]
+
+2025-03-28 10:31:55,138 - INFO - Login realizado com sucesso.
+2025-03-28 10:31:55,391 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:32:00,503 - INFO - Cargo '' inserido com sucesso.
+2025-03-28 10:32:02,622 - INFO - Cidade '' inserida com sucesso.
+2025-03-28 10:32:58,838 - INFO - Login realizado com sucesso.
+2025-03-28 10:32:59,069 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:33:04,156 - INFO - Cargo '' inserido com sucesso.
+2025-03-28 10:33:06,316 - INFO - Cidade '' inserida com sucesso.
+2025-03-28 10:33:32,858 - INFO - Login realizado com sucesso.
+2025-03-28 10:33:36,213 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:33:41,301 - INFO - Cargo '' inserido com sucesso.
+2025-03-28 10:33:44,481 - INFO - Cidade '' inserida com sucesso.
+2025-03-28 10:34:15,054 - INFO - Login realizado com sucesso.
+2025-03-28 10:34:18,116 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:34:23,456 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 10:34:26,591 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 10:37:32,957 - INFO - Login realizado com sucesso.
+2025-03-28 10:37:33,071 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:37:38,367 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 10:37:41,488 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 10:40:00,187 - INFO - Login realizado com sucesso.
+2025-03-28 10:40:00,399 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:40:05,733 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 10:40:08,891 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 10:44:54,759 - INFO - Login realizado com sucesso.
+2025-03-28 10:44:55,037 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 10:45:00,290 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 10:45:03,420 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 10:45:09,201 - INFO - Coletadas 25 vagas
+2025-03-28 10:45:09,849 - INFO - Avançando para a página 2...
+2025-03-28 10:45:10,965 - INFO - Coletadas 25 vagas
+2025-03-28 10:45:11,655 - INFO - Avançando para a página 3...
+2025-03-28 10:45:12,729 - INFO - Coletadas 25 vagas
+2025-03-28 10:45:13,425 - INFO - Avançando para a página 4...
+2025-03-28 10:45:14,558 - INFO - Coletadas 25 vagas
+2025-03-28 10:45:15,383 - INFO - Avançando para a página 5...
+2025-03-28 10:45:16,515 - INFO - Coletadas 25 vagas
+2025-03-28 10:45:59,649 - INFO - Login realizado com sucesso.
+2025-03-28 11:45:53,298 - INFO - Login realizado com sucesso.
+2025-03-28 11:45:53,534 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 11:45:58,829 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 11:46:00,971 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 11:46:13,940 - INFO - Coletadas 25 vagas
+2025-03-28 11:46:14,583 - INFO - Avançando para a página 2...
+2025-03-28 11:46:20,791 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-28 11:46:20,816 - INFO - Planilha criada com sucesso!
+2025-03-28 11:48:17,336 - INFO - Login realizado com sucesso.
+2025-03-28 11:48:17,452 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 11:48:22,706 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 11:48:25,865 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 11:48:38,734 - INFO - Coletadas 25 vagas
+2025-03-28 11:48:39,371 - INFO - Avançando para a página 2...
+2025-03-28 11:48:45,372 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-28 11:48:45,391 - INFO - Planilha criada com sucesso!
+2025-03-28 13:56:15,390 - INFO - Login realizado com sucesso.
+2025-03-28 13:56:18,869 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 13:56:24,199 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 13:56:27,368 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 13:56:40,374 - INFO - Coletadas 25 vagas
+2025-03-28 13:56:41,014 - INFO - Avançando para a página 2...
+2025-03-28 13:56:45,473 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-28 13:56:45,500 - INFO - Planilha criada com sucesso!
+2025-03-28 13:57:33,787 - INFO - Login realizado com sucesso.
+2025-03-28 14:02:00,063 - INFO - Login realizado com sucesso.
+2025-03-28 14:02:00,228 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 14:02:05,540 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 14:02:08,709 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 14:02:21,562 - INFO - Coletadas 25 vagas
+2025-03-28 14:02:22,199 - INFO - Avançando para a página 2...
+2025-03-28 14:02:23,570 - INFO - Coletadas 25 vagas
+2025-03-28 14:02:24,253 - INFO - Avançando para a página 3...
+2025-03-28 14:02:45,371 - INFO - Login realizado com sucesso.
+2025-03-28 14:02:45,740 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 14:02:51,005 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 14:02:54,145 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 14:03:07,238 - INFO - Coletadas 25 vagas
+2025-03-28 14:03:07,946 - INFO - Avançando para a página 2...
+2025-03-28 14:03:09,184 - INFO - Coletadas 25 vagas
+2025-03-28 14:03:09,889 - INFO - Avançando para a página 3...
+2025-03-28 14:03:10,952 - INFO - Coletadas 25 vagas
+2025-03-28 14:03:11,667 - INFO - Avançando para a página 4...
+2025-03-28 14:03:12,690 - INFO - Coletadas 25 vagas
+2025-03-28 14:03:13,414 - INFO - Avançando para a página 5...
+2025-03-28 14:03:14,487 - INFO - Coletadas 25 vagas
+2025-03-28 14:03:15,136 - INFO - Avançando para a página 6...
+2025-03-28 14:03:16,313 - INFO - Coletadas 25 vagas
+2025-03-28 14:03:50,147 - INFO - Login realizado com sucesso.
+2025-03-28 14:03:50,269 - INFO - Página de vagas acessada com sucesso.
+2025-03-28 14:03:55,582 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-28 14:03:58,710 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-28 14:04:11,604 - INFO - Coletadas 25 vagas
+2025-03-28 14:04:12,227 - INFO - Avançando para a página 2...
+2025-03-28 14:04:13,266 - INFO - Coletadas 25 vagas
+2025-03-28 14:04:13,925 - INFO - Avançando para a página 3...
+2025-03-28 14:04:14,894 - INFO - Coletadas 25 vagas
+2025-03-28 14:04:15,704 - INFO - Avançando para a página 4...
+2025-03-28 14:04:16,735 - INFO - Coletadas 25 vagas
+2025-03-28 14:04:17,409 - INFO - Avançando para a página 5...
+2025-03-28 14:04:18,471 - INFO - Coletadas 25 vagas
+2025-03-28 14:04:19,111 - INFO - Avançando para a página 6...
+2025-03-28 14:04:20,124 - INFO - Coletadas 25 vagas
+2025-03-28 14:04:20,807 - INFO - Avançando para a página 7...
+2025-03-28 14:04:27,037 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-28 14:04:27,065 - INFO - Planilha criada com sucesso!
+2025-03-31 15:27:38,372 - INFO - Login realizado com sucesso.
+2025-03-31 15:27:38,565 - INFO - Página de vagas acessada com sucesso.
+2025-03-31 15:27:43,866 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-03-31 15:27:47,030 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-03-31 15:27:59,915 - INFO - Coletadas 25 vagas
+2025-03-31 15:28:00,606 - INFO - Avançando para a página 2...
+2025-03-31 15:28:01,478 - INFO - Coletadas 25 vagas
+2025-03-31 15:28:02,322 - INFO - Avançando para a página 3...
+2025-03-31 15:28:03,533 - INFO - Coletadas 25 vagas
+2025-03-31 15:28:04,156 - INFO - Avançando para a página 4...
+2025-03-31 15:28:05,170 - INFO - Coletadas 25 vagas
+2025-03-31 15:28:05,827 - INFO - Avançando para a página 5...
+2025-03-31 15:28:06,916 - INFO - Coletadas 25 vagas
+2025-03-31 15:28:07,603 - INFO - Avançando para a página 6...
+2025-03-31 15:28:08,616 - INFO - Coletadas 25 vagas
+2025-03-31 15:28:09,276 - INFO - Avançando para a página 7...
+2025-03-31 15:28:15,896 - INFO - Não foi possível avançar de página, finalizando extração. 
+2025-03-31 15:28:15,928 - INFO - Planilha criada com sucesso!
+2025-09-03 03:45:47,148 - INFO - Login realizado com sucesso.
+2025-09-03 03:45:50,105 - INFO - Página de vagas acessada com sucesso.
+2025-09-03 03:45:55,401 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-09-03 03:45:56,409 - ERROR - Erro ao inserir cidade: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(@aria-label, "Cidade")]"}
+  (Session info: chrome=139.0.7258.155); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff61f393d85+79397]
+	GetHandleVerifier [0x0x7ff61f393de0+79488]
+	(No symbol) [0x0x7ff61f13c0fa]
+	(No symbol) [0x0x7ff61f192fd6]
+	(No symbol) [0x0x7ff61f19328c]
+	(No symbol) [0x0x7ff61f1e6537]
+	(No symbol) [0x0x7ff61f1bb1df]
+	(No symbol) [0x0x7ff61f1e3344]
+	(No symbol) [0x0x7ff61f1baf73]
+	(No symbol) [0x0x7ff61f1841b1]
+	(No symbol) [0x0x7ff61f184f43]
+	GetHandleVerifier [0x0x7ff61f65e1ed+3005069]
+	GetHandleVerifier [0x0x7ff61f65831d+2980797]
+	GetHandleVerifier [0x0x7ff61f677e0d+3110573]
+	GetHandleVerifier [0x0x7ff61f3ad6de+184190]
+	GetHandleVerifier [0x0x7ff61f3b516f+215567]
+	GetHandleVerifier [0x0x7ff61f39c974+115220]
+	GetHandleVerifier [0x0x7ff61f39cb29+115657]
+	GetHandleVerifier [0x0x7ff61f383268+11016]
+	BaseThreadInitThunk [0x0x7ff80ecde8d7+23]
+	RtlUserThreadStart [0x0x7ff80f91c34c+44]
+
+2025-09-13 19:31:34,006 - INFO - Login realizado com sucesso.
+2025-09-13 19:31:40,142 - INFO - Página de vagas acessada com sucesso.
+2025-09-13 19:31:45,354 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-09-13 19:31:46,362 - ERROR - Erro ao inserir cidade: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(@aria-label, "Cidade")]"}
+  (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6cb57fc95+79861]
+	GetHandleVerifier [0x0x7ff6cb57fcf0+79952]
+	(No symbol) [0x0x7ff6cb2fcada]
+	(No symbol) [0x0x7ff6cb354457]
+	(No symbol) [0x0x7ff6cb35471c]
+	(No symbol) [0x0x7ff6cb3a8217]
+	(No symbol) [0x0x7ff6cb37cb1f]
+	(No symbol) [0x0x7ff6cb3a4f8b]
+	(No symbol) [0x0x7ff6cb37c8b3]
+	(No symbol) [0x0x7ff6cb345272]
+	(No symbol) [0x0x7ff6cb346043]
+	GetHandleVerifier [0x0x7ff6cb83b9cd+2946349]
+	GetHandleVerifier [0x0x7ff6cb835c4a+2922410]
+	GetHandleVerifier [0x0x7ff6cb8559d7+3052855]
+	GetHandleVerifier [0x0x7ff6cb59aa7e+189918]
+	GetHandleVerifier [0x0x7ff6cb5a2a1f+222591]
+	GetHandleVerifier [0x0x7ff6cb588ab4+116244]
+	GetHandleVerifier [0x0x7ff6cb588c69+116681]
+	GetHandleVerifier [0x0x7ff6cb56f048+11176]
+	BaseThreadInitThunk [0x0x7ff80c8ee8d7+23]
+	RtlUserThreadStart [0x0x7ff80e0e8d9c+44]
+
+2025-12-10 21:25:59,955 - INFO - Login realizado com sucesso.
+2025-12-10 21:26:03,639 - INFO - Página de vagas acessada com sucesso.
+2025-12-10 21:26:08,789 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:18:46,323 - INFO - Login realizado com sucesso.
+2025-12-19 21:18:49,603 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:18:54,783 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:19:47,034 - INFO - Login realizado com sucesso.
+2025-12-19 21:19:50,287 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:19:55,487 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:20:06,635 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:20:16,771 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:20:27,026 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:20:37,366 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:21:25,130 - INFO - Login realizado com sucesso.
+2025-12-19 21:21:32,491 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:21:37,688 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:21:48,846 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:21:59,144 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:09,327 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:19,531 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,081 - ERROR - Erro ao coletar links: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff62607d202
+	0x7ff6260a27af
+	0x7ff626119a29
+	0x7ff62613a5c2
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,170 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,171 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,172 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,172 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,173 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,173 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,174 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,174 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,175 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,175 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,176 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,177 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,177 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,178 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,178 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,179 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,179 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,180 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,180 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,181 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,181 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,182 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,182 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,183 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,183 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,184 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,184 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,185 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,185 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,186 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,186 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,187 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,187 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,188 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,189 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,189 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,190 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,190 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,190 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,191 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:22,192 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:22:32,587 - INFO - Login realizado com sucesso.
+2025-12-19 21:22:36,041 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:22:41,217 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:22:53,483 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:23:03,997 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:23:22,732 - INFO - Login realizado com sucesso.
+2025-12-19 21:23:26,042 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:23:31,226 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:23:42,342 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:23:52,456 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,567 - ERROR - Erro ao coletar links: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff62607d202
+	0x7ff6260a27af
+	0x7ff626119a29
+	0x7ff62613a5c2
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,653 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,653 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,654 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,655 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,655 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,656 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,657 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,657 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,658 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,658 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,659 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,660 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,661 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,662 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,663 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,663 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,664 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,665 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,665 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,666 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,666 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,667 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,667 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,668 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,668 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,669 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,669 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,670 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,671 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,671 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,672 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,672 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,673 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,673 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,674 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,674 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,675 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,675 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,676 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,676 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,677 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,677 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,678 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,678 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:02,679 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:24:44,153 - INFO - Login realizado com sucesso.
+2025-12-19 21:24:47,511 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:24:52,689 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:24:55,832 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-12-19 21:25:05,846 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:25:15,960 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:25:26,071 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:25:36,182 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:25:46,632 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:25:56,823 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:26:10,702 - INFO - Login realizado com sucesso.
+2025-12-19 21:26:14,104 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:26:19,262 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:26:22,412 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-12-19 21:27:35,899 - INFO - Login realizado com sucesso.
+2025-12-19 21:27:39,154 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:27:44,339 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:27:47,495 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-12-19 21:28:21,576 - INFO - Login realizado com sucesso.
+2025-12-19 21:28:24,706 - INFO - Página de vagas acessada com sucesso.
+2025-12-19 21:28:29,868 - INFO - Cargo 'Analista de dados' inserido com sucesso.
+2025-12-19 21:28:33,015 - INFO - Cidade 'Campinas' inserida com sucesso.
+2025-12-19 21:28:48,129 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:28:58,236 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:08,341 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:18,449 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:28,562 - ERROR - Erro ao coletar links: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff6260e9a33
+	0x7ff6260e9d3c
+	0x7ff62613df67
+	0x7ff62613ac97
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,589 - ERROR - Erro ao coletar links: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.110)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff62609165d
+	0x7ff62607d202
+	0x7ff6260a27af
+	0x7ff626119a29
+	0x7ff62613a5c2
+	0x7ff6260dac29
+	0x7ff6260dba93
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff6262c2004
+	0x7ff6262c21b5
+	0x7ff6262a7ee2
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,696 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,696 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,697 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,698 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,698 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,699 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,699 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,700 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,700 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,701 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,701 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,702 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,703 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,703 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,704 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,704 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,705 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,705 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,706 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,706 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,707 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,707 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,708 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,709 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,709 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,710 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,710 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,711 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,711 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,712 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,712 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,713 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,714 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,714 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,715 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,715 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,716 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,716 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
+2025-12-19 21:29:29,717 - ERROR - Erro ao coletar links: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6262b88e5
+	0x7ff6262b8940
+	0x7ff626091465
+	0x7ff6260d9d83
+	0x7ff626111ee2
+	0x7ff62610c500
+	0x7ff62610b6f0
+	0x7ff62605b325
+	0x7ff6265d0640
+	0x7ff6265caf80
+	0x7ff6265e96e6
+	0x7ff6262d5de4
+	0x7ff6262ded8c
+	0x7ff626059cb8
+	0x7ff62672f008
+	0x7ff877f7e8d7
+	0x7ff878b4c53c
+
